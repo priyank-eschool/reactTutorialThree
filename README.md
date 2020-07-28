@@ -1,2 +1,2 @@
 # reactTutorialThree
-Component Lifecyle and React Hook
+Component Lifecyle and React Hook and HOC
